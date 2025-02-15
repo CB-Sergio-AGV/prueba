@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/pagina-14/browser",
+    "public": "dist/pagina-14",
     "ignore": [
       "firebase.json",
       "**/.*",
